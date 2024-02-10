@@ -19,7 +19,7 @@ https://github.com/Elif-Rana/Paint.git
 ```
 javac PaintBoard.java
 ```
-&ensp;and run with
+&emsp;and run with
 ```
 java PaintBoard
 ```
