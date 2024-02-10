@@ -15,11 +15,12 @@ The default choices are the pen tool and black color.
 ```
 https://github.com/Elif-Rana/Paint.git
 ```
-- Open the project in your preferred Java IDE.<br>or compile with
+- Open the project in your preferred Java IDE.
+-- or compile with
 ```
 javac PaintBoard.java
 ```
-&emsp;&ensp;and run with
+-- and run with
 ```
 java PaintBoard
 ```
