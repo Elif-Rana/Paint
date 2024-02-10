@@ -11,7 +11,7 @@ The default choices are the pen tool and black color.
 ![image](https://github.com/Elif-Rana/Paint/assets/122517868/e04e1771-30c9-4d55-a823-6c5ec2115727)
 
 ## How to Use
-- Clone the repository to ypur local machine
+- Clone the repository to your local machine
 ```
 https://github.com/Elif-Rana/Paint.git
 ```
