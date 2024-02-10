@@ -13,10 +13,10 @@ The default choices are the pen tool and black color.
 ## How to Use
 - Clone the repository to ypur local machine
 ```
-
+https://github.com/Elif-Rana/Paint.git
 ```
 - Open the project in your preferred Java IDE.
-- or compile with
+or compile with
 ```
 javac PaintBoard.java
 ```
