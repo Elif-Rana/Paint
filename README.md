@@ -5,6 +5,7 @@
 - Choose the color you like
 - Choose pen tool or a shape to draw
 - Start scribbling
+
 Pen tool and black are default choices
 
 
